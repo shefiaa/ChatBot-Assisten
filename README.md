@@ -1,6 +1,7 @@
 ![Alt text](<Screenshot 2024-01-02 090631.png>)
 
-<video src="How%20to%20Record%20Your%20Screen%20on%20Windows%2011%20_%20Microsoft%20Windows%20and%202%20more%20pages%20-%20Personal%20-%20Microsoft%E2%80%8B%20Edge%202024-01-02%2009-15-26.mp4" controls title="video"></video>
+![Alt text](GIF.gif)
+
 
 ## 1. Membuat Proyek React
 membuatnya dengan menggunakan perintah berikut:
